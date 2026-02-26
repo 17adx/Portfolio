@@ -5,9 +5,9 @@ import Logo from '../UI/Logo';
 
 const Footer = () => {
   const socialLinks = [
-    { icon: Mail, href: "mailto:contact@anas.com", label: "Email" },
-    { icon: Github, href: "https://github.com", label: "GitHub" },
-    { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
+    { icon: Mail, href: "mailto:anassalem919@gmail.com", label: "Email" },
+    { icon: Github, href: "https://github.com/17adx", label: "GitHub" },
+    { icon: Linkedin, href: "https://linkedin.com/in/anassobhisalem", label: "LinkedIn" },
   ];
 
   return (
@@ -37,7 +37,7 @@ const Footer = () => {
             </p>
 
             <a 
-                href="mailto:contact@anas.com" 
+                href="mailto:anassalem919@gmail.com" 
                 className="
                     group relative inline-flex items-center gap-3 
                     px-8 py-4 text-lg font-bold text-[#0b1121] 
